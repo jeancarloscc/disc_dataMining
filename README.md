@@ -2,21 +2,25 @@
 
 ## Descrição
 
-Este repositório contém os materiais e projetos desenvolvidos durante a disciplina de Mineração de Dados, realizada na Universidade Federal do Pará (UFPA), ofertada pelo Programa de Pós-Graduação em Computação Aplicada (PPCA). A disciplina aborda os principais conceitos e técnicas de mineração de dados, focando na análise de grandes volumes de dados para extrair informações úteis e padrões.
+Este repositório contém os materiais e projetos desenvolvidos durante a disciplina de Mineração de Dados, realizada no Programa de Pós-Graduação em Computação Aplicada da Universidade Federal do Pará (UFPA). A disciplina aborda os principais conceitos e técnicas de mineração de dados, com foco na identificação de padrões importantes em grandes bancos de dados.
 
 ## Objetivos
 
-- Aprender os fundamentos da mineração de dados.
-- Utilizar ferramentas e técnicas para análise de dados.
-- Aplicar técnicas de mineração de dados em estudos de caso reais.
+- Assimilar os principais conceitos acerca de Mineração de Dados (MD).
+- Compreender os passos do processo de descoberta de conhecimento em bases de dados (KDD).
+- Realizar a análise exploratória dos dados.
+- Conhecer e aplicar as principais técnicas de mineração de dados (classificação, agrupamentos, estimação, predição e associação).
+- Utilizar ferramentas práticas para mineração de dados, como o Weka.
 
 ## Conteúdo Programático
 
-1. Introdução à Mineração de Dados
-2. Preparação e Limpeza de Dados
-3. Métodos de Mineração de Dados
-4. Técnicas de Análise de Dados
-5. Estudos de Caso e Aplicações Práticas
+1. Definições e etapas da mineração de dados
+2. Pré-processamento de dados
+3. Mineração de regras de associação
+4. Classificação: árvores de decisão, redes neurais, SVM
+5. Seleção de parâmetros e redução da dimensionalidade
+6. Análise de agrupamentos
+7. Utilização prática de softwares para mineração de dados
 
 ## Requisitos
 
@@ -34,3 +38,12 @@ Este repositório contém os materiais e projetos desenvolvidos durante a discip
 
 - [Jean Carlos](https://www.github.com/jeancarloscc)
 - [E-mail](jeancc.costa@gmail.com)
+
+## Material de Apoio
+
+- REZENDE, S. O. Sistemas Inteligentes. Manole, 2003.
+- WITTEN, I.H., FRANK, E. Data Mining: Practical Machine Learning Tools and Techniques with Java Implementations. Morgan Kaufmann, 2005.
+- HAN, I., KAMBER, M. Data Mining: Concepts and Techniques. Morgan Kaufmann, 2000.
+- HAND, D. J., MANNILA, H., SMYTH, P. Principles of Data Mining. The MIT Press, 2001.
+- LIU, H., MOTODA, H. Computational Methods of Feature Selection. Chapman & Hall/CRC, 2008.
+- Fernando Amaral. Introdução à Ciência de Dados: Mineração de dados e big data.
